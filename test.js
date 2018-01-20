@@ -1,4 +1,4 @@
 function(){
 	
-console.log('test js  file')	
+console.log('change  file')	
 }
